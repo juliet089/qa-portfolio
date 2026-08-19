@@ -1,6 +1,6 @@
 # Практика в Jira
 
-Все 5 багов, найденных при тестировании [playground.learnqa.ru/puzzle/triangle](https://playground.learnqa.ru/puzzle/triangle) (см. [bug-reports.md](.learnqa-triangle/bug-reports.md)), оформлены как задачи типа **Баг** в Jira (Kanban-доска, проект **KAN**), с полями Summary, Description (окружение, предусловия, шаги воспроизведения, фактический/ожидаемый результат, Severity), Priority, метками и вложениями.
+Все 5 багов, найденных при тестировании [playground.learnqa.ru/puzzle/triangle](https://playground.learnqa.ru/puzzle/triangle) (см. [bug-reports.md](.qa-portfolio/learnqa-triangle/bug-reports.md)), оформлены как задачи типа **Баг** в Jira (Kanban-доска, проект **KAN**), с полями Summary, Description (окружение, предусловия, шаги воспроизведения, фактический/ожидаемый результат, Severity), Priority, метками и вложениями.
 
 ## Доска
 
